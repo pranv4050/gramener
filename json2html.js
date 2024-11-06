@@ -4,7 +4,7 @@ export default function json2html(data) {
   const headers = [...new Set(data.flatMap(Object.keys))];
 
   // Create the table with the data-user attribute
-  let html = '<table data-user="mkhushal03@gmail.com">';
+  let html = '<table data-user="nellutlapranav13@gmail.com">';
 
   // Add headers to the HTML
   html += '<thead><tr>';
